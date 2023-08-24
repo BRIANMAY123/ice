@@ -1,0 +1,36 @@
+export default {
+"msdatas":[
+    {
+      icon:"/src/assets/hotIcon1.png",
+      id:'001',
+      title:"综合文章榜",
+      img:"//lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/article.52e2cca.png",
+      subtitles:[
+        "带你了解更全面的Monorepo-优劣、踩坑",
+        "为什么Node应用要用PM2来跑",
+        "js小众好用的技巧【api】"
+      ]
+    },
+    {
+      icon:"/src/assets/hotIcon2.png",
+      id:'002',
+      img:"https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/books.ee6cdd2.png",
+      title:"精选专栏",
+      subtitles:[
+        "CodeGuide | 程序员编码指南",
+        "JS每日一算法",
+        "每日掘金"
+      ]
+    },
+    {
+      icon:"/src/assets/hotIcon3.png",
+      id:'003',
+      img:"https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/star.641eec7.png",
+      title:"推荐收藏集",
+      subtitles:[
+        "JS每日一算法",
+        "webGL入门和实践",
+        "每日掘金"
+      ]
+    }]
+}
